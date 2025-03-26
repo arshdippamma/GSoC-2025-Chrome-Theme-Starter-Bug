@@ -19,7 +19,7 @@ This is a custom Chrome theme inspired by the **Toronto Raptors** and was create
 
 ## Customization
 
-You can customize the theme by editing the `manifest.json` file to change the colors or background images to your preference. If you want to add new images to use, simply add them in the "images" folder.
+You can customize the theme by editing the `manifest.json` file to change the colors or background images to your preference. If you want to add new images to use, simply add them in the `images` folder.
 
 ### Files
 
