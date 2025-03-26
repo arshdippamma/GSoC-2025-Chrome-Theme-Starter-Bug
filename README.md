@@ -17,9 +17,18 @@ This is a custom Chrome theme inspired by the **Toronto Raptors** and was create
 5. Click "Add Theme" when prompted by the popup.
 6. Your Toronto Raptors theme should now be applied!
 
+### Installation Method 2: Applying Theme Using Unpacked Source Code
+
+1. Retrieve the unpacked source code by dowloading or cloning this repository using `git clone https://github.com/arshdippamma/GSoC-2025-Chrome-Theme-Starter-Bug.git`.
+2. Make any desired customizations (see **Customizations** below for more information).
+3. Open **Chrome** and go to the **Extensions** page: `chrome://extensions/`
+4. Enable **Developer mode** by clicking the toggle in the top-right corner of the page.
+5. Click the **Load unpacked** button and choose the `Toronto Raptors Theme` folder.
+6. Your Toronto Raptors theme should now be applied!
+
 ## Customization
 
-You can customize the theme by editing the `manifest.json` file to change the colors or background images to your preference. If you want to add new images to use, simply add them in the `images` folder.
+If you used **Installation Method 2**, you can customize the theme by editing the `manifest.json` file to change the colors or background images to your preference. If you want to add new images to use, simply add them in the `images` folder.
 
 ### Files
 
