@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Toronto Raptors Theme",
+    "theme": {
+        "images" : {
+            "theme_ntp_background" : "images/raptors_logo.jpg"
+        },
+        "colors" : {
+            "frame" : [146, 110, 219],
+            "toolbar" : [52, 24, 109],
+            "ntp_text" : [20, 0, 40],
+            "ntp_link" : [36, 0, 70],
+            "ntp_section" : [52, 24, 109],
+            "button_background" : [146, 110, 219]
+        },
+        "tints" : {
+            "buttons" : [0.83, 0.4, 0.6]
+        },
+        "properties" : {
+            "ntp_background_alignment" : "bottom",
+            "ntp_background_repeat" : "no-repeat"
+        }
+    }
+}
