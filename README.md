@@ -11,7 +11,7 @@ This is a custom Chrome theme inspired by the **Toronto Raptors** and was create
 ### Installation Method 1: Applying Theme Using .crx File
 
 1. Download the Toronto%20Raptors%20Theme.crx from this repository.
-2. Open **Chrome** and go to the **[Extensions](chrome://extensions/)** page.
+2. Open **Chrome** and go to the [Extensions](chrome://extensions/) page.
 3. Enable **Developer mode** by clicking the toggle in the top-right corner of the page.
 4. Simply drag and drop the local `Toronto%20Raptors%20Theme.crx` file into the page.
 5. Click "Add Theme" when prompted by the popup.
