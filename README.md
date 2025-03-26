@@ -28,7 +28,7 @@ You can customize the theme by editing the `manifest.json` file to change the co
 
 ## Credits
 
-Theme: Created by Arshdip Pamma for Google Summer of Code 2025.
+Theme: Created by Arshdip Pamma for Google Summer of Code 2025.  
 Raptors Logo: [Pinterest](https://es.pinterest.com/pin/458030224577571245/).
 
 ## License
