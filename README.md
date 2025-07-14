@@ -4,7 +4,7 @@ This is a custom Chrome theme inspired by the **Toronto Raptors** and was create
 
 ## Theme Preview
 
-[Toronto Raptors Theme Preview](Toronto%20Raptors%20Theme%20Preview.png)
+[Toronto Raptors Theme Preview](Preview%of%Toronto%Raptors%Theme.png)
 
 ## Installation
 
